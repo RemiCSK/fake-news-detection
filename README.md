@@ -33,4 +33,4 @@ Ensure you have installed the required packages listed in `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-Then, you can run the `nlp_mini_fake_news_detection.ipynb` notebook.
+Then, you can run the `nlp_mini_fake_news_detection.ipynb` notebook. I strongly advise not to run this notebook in a cloud environment as it can cause many errors.
