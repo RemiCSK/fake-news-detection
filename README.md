@@ -15,7 +15,7 @@ The experiments conducted in this project are heavily inspired than those descri
 3.  **Expected `data` directory structure:**
 
     ```
-    mini_projet_nlp/
+    fake-news-detection/
     ├── data/
     │   ├── Fake.csv
     │   ├── True.csv
