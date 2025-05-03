@@ -6,7 +6,7 @@ The experiments conducted in this project are heavily inspired than those descri
 ## Data Setup
 
 1.  **Create a `data` directory** in the root of the project if it doesn't exist.
-2.  **Download the datasets:**
+2.  **Download the datasets as ZIP and unzip the files:**
     *   ISOT Fake News Dataset: [Download Link](https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data)
         *   Place `Fake.csv` and `True.csv` directly inside the `data` directory.
     *   Fake or Real News Dataset: [Download Link](https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news)
